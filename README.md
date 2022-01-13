@@ -1,3 +1,7 @@
+# gtc-kb
+Great Themes Collection - keyboard module for Attract-Mode Front End
+ - http://attractmode.org
+
 keyboard-search
 -
 The search surface will be shown and control input when the search key is pressed. It will stop taking input when the
